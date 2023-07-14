@@ -1,9 +1,9 @@
 public class Tableau {
-    public String case1;
-    public int case2;
+    public String Nom;
+    public int Quantité;
 
     public Tableau (String premireCase, int secondeCase){
-        case1 = premireCase;
-        case2 = secondeCase;
+        Nom = premireCase;
+        Quantité = secondeCase;
     }
 }
